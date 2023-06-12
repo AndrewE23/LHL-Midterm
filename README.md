@@ -1,7 +1,7 @@
 # LHL-Midterm
 Original Authors: Andrew Elliott &amp; Jacob Cyr
 
-## Project Aims:
+#### Project Aims:
 
 ### Problem to be Solved:
 
