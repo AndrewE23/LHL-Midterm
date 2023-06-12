@@ -9,8 +9,8 @@ Original Authors: Andrew Elliott &amp; Jacob Cyr
 ## What's What:
 
 
-### Part A
+### Part A:
 
-### Part B
+### Part B:
 
-### Etc.
+### Etc.:
